@@ -4,7 +4,7 @@ html, body { height: 100%;
   font-family: 'Oxygen', sans-serif;}
 
 html { 
-  background:  url(/samuelcroset/assets/tubes-background.gif) no-repeat center center fixed;
+  background:  url(/assets/tubes-background.gif) no-repeat center center fixed;
   background-size: cover;
 }
 
