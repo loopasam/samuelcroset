@@ -1,4 +1,4 @@
-name: Samuel Croset | Semantics ∩ Drug Discovery
+name: Samuel Croset | Data ∩ Drug Discovery
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 baseurl: 
