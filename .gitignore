@@ -1,1 +1,8 @@
 _site/
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/samuelcroset.iml
+/.idea/vcs.xml
